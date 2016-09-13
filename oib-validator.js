@@ -37,6 +37,7 @@
             /* 5. Sljedeća znamenka zbroji se s ostatkom u prethodnom koraku */
             else
                 rest = rest + tenRandomlyGeneratedNumbers.shift();
+                
             /* 2. Dobiveni zbroj cjelobrojno (s ostatkom) podijeli se brojem 10;
              *    ako je dobiveni ostatak 0 zamijeni se brojem 10 (ovaj broj je tzb. međuostatak) */
             rest = rest % 10;
@@ -51,6 +52,7 @@
             rest = rest % 11;
 
         }
+        
         /* 7. Razlika između broja 11 i ostatka u zadnjem koraku je kontrolna zamenka;
          *    ako je ostatak 1 kontrolna znamenka je  0 (11-1=10, a 10 ima dvije znamenke) */
         rest = 11 - rest;
