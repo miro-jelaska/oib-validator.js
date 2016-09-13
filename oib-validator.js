@@ -50,7 +50,6 @@
             /* 4. Dobiveni umnožak cjelobrojno (s ostatkom) podijeli se brojem 11
              *    ovaj ostatak matematički nikako ne može bit 0 jer je rezultat prethodnog koraka uvijek paran broj */
             rest = rest % 11;
-
         }
         
         /* 7. Razlika između broja 11 i ostatka u zadnjem koraku je kontrolna zamenka;
