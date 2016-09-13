@@ -1,7 +1,7 @@
 # oib-validator.js
 JavaScript validator za OIB.
 
-## Kontrola OIB-a po međunarodnoj normi ISO7064 (MOD 11,10) - Hibridni sistem)
+## Kontrola OIB-a po međunarodnoj normi ISO7064 (MOD 11,10) - Hibridni sistem
 *Ovaj tekst je preuzet sa [regos.hr](http://www.regos.hr/UserDocsImages/KONTROLA%20OIB-a.pdf) 14.9.2016., a original se može pronaći u folderu readme-resources.*
 
  1. OIB ima 11 znamenaka od koji je posljednja tj. 11. znamenka kontrolna znamenka - dobivena je izračunom iz prethodnih 10 znamenaka po meñunarodnoj normi ISO 7064 (MOD 11, 10).
