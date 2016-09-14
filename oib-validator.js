@@ -18,7 +18,7 @@
             .map(function (numberAsString) { return parseInt(numberAsString); });
 
         var generatedControlDigit = iso7064_mod11_10(tenRandomlyGeneratedNumbers);
-        var originalControlDigit = oibString[oibLength - 1];
+        var originalControlDigit = parseInt(oibString[oibLength - 1]);
         return originalControlDigit === generatedControlDigit;
     }
     function iso7064_mod11_10(tenRandomlyGeneratedNumbers) {
