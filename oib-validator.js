@@ -8,7 +8,7 @@
     };
     
     function isValid(oibString) {
-        if(!oibString && oibString.length !== oibLength)
+        if(!oibString || oibString.length !== oibLength)
             return false;
 
         var tenRandomlyGeneratedNumbers =
