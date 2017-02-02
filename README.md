@@ -3,6 +3,10 @@
 # oib-validator.js
 JavaScript validator za OIB.
 
+Have some questions or want to give a feedback? You can send me a <a href="mailto:mjelaska.public@gmail.com">an email ✉️</a>
+
+**NOTE:** Do you like it? Show it by giving a ⭐️. 🚀
+
 ## Kontrola OIB-a po međunarodnoj normi ISO7064 (MOD 11,10) - Hibridni sistem
 *Ovaj tekst je preuzet sa [regos.hr](http://www.regos.hr/UserDocsImages/KONTROLA%20OIB-a.pdf) 14.9.2016., a original se može pronaći u folderu readme-resources.*
 
