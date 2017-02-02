@@ -1,4 +1,5 @@
 [![NSP Status](https://nodesecurity.io/orgs/mjelaska/projects/b4037e18-8238-43d5-b68c-5582ca44b4a3/badge)](https://nodesecurity.io/orgs/mjelaska/projects/b4037e18-8238-43d5-b68c-5582ca44b4a3)
+[![dependencies Status](https://david-dm.org/MiroslavJelaska/oib-validator.js/status.svg)](https://david-dm.org/MiroslavJelaska/oib-validator.js)
 # oib-validator.js
 JavaScript validator za OIB.
 
